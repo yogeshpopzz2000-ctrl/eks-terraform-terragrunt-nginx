@@ -189,12 +189,28 @@ Expected output:
 Welcome to nginx!
 
 
-Added screenshots of:
+## 📸 Screenshots
 
-- Amazon EKS Cluster
-- Worker Nodes
-- kubectl get nodes
-- kubectl get pods
-- kubectl get svc
-- AWS Load Balancer
-- NGINX Welcome Page
+### Amazon EKS Cluster
+
+![EKS Cluster](images/eks-cluster.png)
+
+### Kubernetes Worker Nodes
+
+![Worker Nodes](images/kubectl-nodes.png)
+
+### Kubernetes Pods
+
+![Pods](images/kubectl-pods.png)
+
+### Kubernetes Services
+
+![Services](images/kubectl-services.png)
+
+### AWS Load Balancer
+
+![Load Balancer](images/load-balancer.png)
+
+### NGINX Application
+
+![NGINX Homepage](images/nginx-homepage.png)
