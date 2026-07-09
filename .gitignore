@@ -1,0 +1,22 @@
+# Terraform
+**/.terraform/
+**/.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+
+# Terragrunt
+**/.terragrunt-cache/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Sensitive files
+terraform.tfvars
+*.pem
+*.key
