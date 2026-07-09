@@ -187,13 +187,9 @@ Expected output:
 
 ```
 Welcome to nginx!
-```
 
----
 
-## 📸 Screenshots
-
-Add screenshots of:
+Added screenshots of:
 
 - Amazon EKS Cluster
 - Worker Nodes
@@ -202,24 +198,3 @@ Add screenshots of:
 - kubectl get svc
 - AWS Load Balancer
 - NGINX Welcome Page
-
----
-
-## 📚 Learning Outcomes
-
-- Infrastructure as Code using Terraform
-- Terragrunt Module Management
-- Remote Terraform State using S3
-- State Locking using DynamoDB
-- Amazon EKS Cluster Provisioning
-- Kubernetes Deployment and Services
-- AWS Load Balancer Integration
-- GitHub Project Management
-
----
-
-## 👨‍💻 Author
-
-**Yogesh**
-
-GitHub: https://github.com/<your-github-username>
